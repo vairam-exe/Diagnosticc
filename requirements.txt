@@ -1,6 +1,6 @@
 Flask
 opencv-python
-tensorflow-gpu
+tensorflow
 scipy
 Werkzeug
 numpy
